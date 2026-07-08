@@ -159,6 +159,7 @@ Maintain consistency across the full set:
 Create a horizontal GitHub social preview banner for each repository/package:
 - exact aspect ratio 2:1
 - preferred size 1280x640 px
+- final upload file must be smaller than 1 MB
 - suitable for GitHub repository preview
 - suitable for README header
 - suitable for project branding

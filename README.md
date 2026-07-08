@@ -18,8 +18,8 @@ then send the prompt to an agent or image generator.
 
 | Reference board | Generated banner |
 |---|---|
-| ![Reference board](/var/folders/72/4xflf9vn3szd81nsycnp8hd40000gn/T/codex-clipboard-4efee35f-0af2-48b4-b553-1992840e8ba9.png) | ![Generated banner](/var/folders/72/4xflf9vn3szd81nsycnp8hd40000gn/T/codex-clipboard-72a3456e-daf8-4439-986c-57b40f5c3a06.png) |
-| ![Reference board](/var/folders/72/4xflf9vn3szd81nsycnp8hd40000gn/T/codex-clipboard-3b4fa9f8-c841-4ddc-9a2f-2d48a85caec4.png) | ![Generated banner](/var/folders/72/4xflf9vn3szd81nsycnp8hd40000gn/T/codex-clipboard-a0aedfbd-1aa1-496a-9804-4d4cda158f50.png) |
+| ![Reference board](examples/reference-board-1.png) | ![Generated banner](generated-banners-under-1mb/floor-predictor.jpg) |
+| ![Reference board](examples/reference-board-2.png) | ![Generated banner](generated-banners-under-1mb/github_banner_logo.jpg) |
 
 ## Usage
 
@@ -35,4 +35,4 @@ The agent should then:
 - inspect the repository
 - keep repository content separate from reference-board style
 - describe the visual concept first
-- generate a 1280x640 banner
+- generate a 1280x640 banner under 1 MB
